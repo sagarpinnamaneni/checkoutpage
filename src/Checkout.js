@@ -197,6 +197,7 @@ const CheckoutPage = () => {
                   </div>
                 </div>
                 <div class="radiobtn">
+                <span class="tickets-label">Select your Show Time</span>
                   <input type="radio" name="box" id="one" />
                   <input type="radio" name="box" id="two" />
                   <input type="radio" name="box" id="three" />

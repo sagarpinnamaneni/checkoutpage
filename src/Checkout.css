@@ -80,7 +80,7 @@ background-color:#d78b8b;
 
 
 .top-left {
-  position: ;
+  
   top: 0;
   left: 0;
   background-color: #333;
@@ -467,6 +467,11 @@ border-bottom-right-radius: 10px;
 
 }
 
+.tickets-label{
+  text-align: left;
+
+}
+
 .box-2 .box-inner-2 .btn.btn-outline-primary {
 width: 120px;
 padding: 10px;
@@ -593,7 +598,7 @@ font-size: 12px;
 }
 .selectedshow{
   text-align: center;
-  padding-left: 140px;
+  padding-left: 10px;
   font-family: 'Comic Sans MS', 'Comic Sans', cursive;
   font-weight: 600
 }
