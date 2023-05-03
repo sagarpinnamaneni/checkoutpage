@@ -4,6 +4,35 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+
+Make sure you have node installed on your system.
+
+First, ensure that you have the latest version of Node.js installed on your computer. You can download it from the official website: https://nodejs.org/en/download/
+
+Next, navigate to your React app's directory in your terminal or command prompt.
+
+Run
+ ## npm install
+  to install all the dependencies required by your app.
+
+Once the dependencies are installed, run 
+## npm start 
+to start the development server. This should automatically open your app in your default web browser.
+
+If your app doesn't open automatically, you can access it by opening your web browser and typing http://localhost:3000 in the address bar.
+
+Your app should now be up and running. You can make changes to the code and see the results in real-time in your web browser.
+
+If your app doenst start  try using
+## sudo npm start
+ and if asked for persmikssion. enter your password that use use for your local machine.
+
+ if still the isse persists  try:
+ ## chmod -R 755 <file path>/checkoutpage/node_modules/
+
+ this should work hopefully.
+
+
 In the project directory, you can run:
 
 ### `npm start`
