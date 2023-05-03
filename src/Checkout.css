@@ -30,6 +30,11 @@
   /* word-spacing: 1px; letter-spacing:2px; color:#c50000; */
   color: #11549c; font-family: "Great Vibes", cursive; font-size: 50px; line-height: 160px; font-weight: normal; margin-bottom: 0px; margin-top: 40px; text-align: center; text-shadow: 0 1px 1px #fff;
 }
+
+.dis fw-bold mb-3{
+  textAlign: 'left';
+
+}
 .Checkouthead h1 span {
   line-height:2em; padding-bottom:15px;
   text-transform: none;
@@ -394,7 +399,7 @@ display: none;
 
 .box-2 {
 max-width: 450px;
-padding: 10px 40px;
+padding: 50px 50px;
 }
 
 
@@ -422,7 +427,7 @@ position: absolute;
 width: 20px;
 height: 20px;
 border-radius: 50%;
-background-color: green;
+background-color: rgb(226, 237, 226);
 font-size: 12px;
 color: white;
 display: flex;
@@ -472,6 +477,11 @@ border-bottom-right-radius: 10px;
 
 }
 
+.btn btn-primary mt-2{
+  padding-top: 100px;
+
+
+}
 .box-2 .box-inner-2 .btn.btn-outline-primary {
 width: 120px;
 padding: 10px;
@@ -651,4 +661,8 @@ font-size: 12px;
 
 .mt-2 {
   margin-top: 0.5rem;
+}
+
+form {
+  text-align: left;
 }
